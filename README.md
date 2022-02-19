@@ -1,4 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`yarn create next-app --typescript`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+Instaled:
+yarn add sass -D
+
+Components:
+Header, Footer & SignInButton
+
+Configured:
+picsum.photos domain in next.config
 
 ## Getting Started
 
